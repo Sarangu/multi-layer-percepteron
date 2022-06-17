@@ -4,7 +4,7 @@ Implement a Implementing a multi-layer perceptron (MLP) 3-class classifier with 
 ## Problem
 Objective: To implement a multi-layer perceptron (MLP) 3-class classifier with multiple hidden layers and a regularization on the weights.
 
-Input: Two dimensional input from three separate classes. 
+Input: Randomly generated two dimensional input from three separate classes. 
 
 Activiation function: ReLU or leaky ReLU. 
 
